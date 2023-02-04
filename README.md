@@ -15,7 +15,8 @@ A diffuser for the Daylight/Rainbow on a Matchstick LEDs
 
 ### Printing
 
-- Print one of each `main_body_A.stl` and `main_body_B.stl`
+- Print one of each `main_body_daylight_A.stl` and `main_body_daylight_B.stl` if you have Daylight on a Matchstick
+- Print one of each `main_body_rainbow_A.stl` and `main_body_rainbow_B.stl` if you have Rainbow on a matchstick
 - Print 2 `[c]_diffuser_x2.stl` in a clear or white filament.
 - Print 4 of either `top_mount_clip_x4.stl` *or* `bottom_mount_clip_x4.stl` depending on where you intend to mount the LEDs.
 
